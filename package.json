@@ -1,0 +1,20 @@
+{
+  "name": "takeoff-staff.ru",
+  "version": "1.0.0",
+  "description": "Тестовое задание для takeoff-staff.ru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemishevsky/takeoff-staff.ru.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemishevsky/takeoff-staff.ru/issues"
+  },
+  "homepage": "https://github.com/lemishevsky/takeoff-staff.ru#readme"
+}
